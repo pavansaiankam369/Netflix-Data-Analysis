@@ -86,6 +86,3 @@ To run this analysis on your local machine, please follow the instructions below
 
 Contributions are welcome! If you have suggestions for improvements, please fork the repository and create a pull request, or open an issue with the tag "enhancement".
 
-## 📜 License
-
-This project is not licensed.
