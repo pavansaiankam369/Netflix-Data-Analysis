@@ -62,7 +62,7 @@ To run this analysis on your local machine, please follow the instructions below
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/netflix-analysis.git](https://github.com/your-username/netflix-analysis.git)
+    git clone [https://github.com/pavansaiankam369/netflix-analysis.git](https://github.com/pavansaiankam369/netflix-analysis.git)
     cd netflix-analysis
     ```
 
